@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "323624814277",
+    "project_id": "lolduo-332f2",
+    "storage_bucket": "lolduo-332f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323624814277:android:49b9411e3ed4f6b23cd2ac",
+        "android_client_info": {
+          "package_name": "com.example.lolduo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323624814277-974t4s6srcu1sibbp7288dek33u4lfuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6zhgAYQLLnzZztrypQjA4UkERXIsAJrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323624814277-974t4s6srcu1sibbp7288dek33u4lfuo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
